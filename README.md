@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **Santosh Mahto**  _🇮🇳_.
+I am **Santosh Mahto**  _🇮🇳_
 
 <!--
 Here are some ideas to get you started:
