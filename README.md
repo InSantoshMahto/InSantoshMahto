@@ -1,17 +1,15 @@
 ### Hi there 👋
 
 
-I am **Santosh Mahto**  _🇮🇳_
+I am **Santosh Mahto**  from _🇮🇳_
 
-<!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://InSantoshMahto.dev
+- 🌱 I’m currently learning GoLang
+- 👯 I’m looking to collaborate on NodeJs
+- 🤔 I’m looking for help with MySQL
+- 💬 Ask me about Nodejs
+- 📫 How to reach me: mahtos480@gmail.com
+- 😄 Pronouns: Santosh
+- ⚡ Fun fact: IDK
