@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with MySQL
 - 💬 Ask me about Nodejs
 - 📫 How to reach me: mahtos480@gmail.com
-- 😄 Pronouns: Santosh
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: IDK
